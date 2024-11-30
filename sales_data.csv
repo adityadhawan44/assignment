@@ -1,0 +1,6 @@
+OrderID,OrderDate,Region,Sales,Quantity,Profit
+1,2022-01-15,East,200,10,50
+2,2022-01-18,West,300,15,80
+3,2022-02-20,East,150,8,40
+4,2022-02-22,North,400,20,120
+5,2022-03-05,South,250,12,60
